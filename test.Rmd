@@ -24,4 +24,8 @@ A summary of data is here below
 library(knitr)
 kable(summary(cars))
 
-```more refined would be to use the Diff functionmore refined would be to use the Diff function
+```
+
+blablablablab
+
+more blablalbalalab
