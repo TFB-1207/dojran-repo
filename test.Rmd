@@ -25,7 +25,3 @@ library(knitr)
 kable(summary(cars))
 
 ```
-
-blablablablab
-
-more blablalbalalab
